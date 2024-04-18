@@ -5,7 +5,7 @@ import GlobalStyles from './styles/global'
 
 import theme from './styles/theme'
 
-import { SignIn } from './Pages/SignIn'
+import { SignIn } from './Pages/Signin'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
