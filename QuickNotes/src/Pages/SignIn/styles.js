@@ -21,7 +21,12 @@ export const Form =styled.form`
         padding: 48px;
     }
     
+    > a {
+    margin-top: 124px;
+    color: ${({ theme }) => theme.COLORS.ORANGE};
+  }
 `
+
 
 export const Background = styled.div`
   flex: 1;
